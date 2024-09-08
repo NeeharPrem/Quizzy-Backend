@@ -1,4 +1,3 @@
-import User from '../model/userModel.js'
 import Quiz from '../model/quizModel.js'
 import Questions from '../model/qestionModel.js'
 import bcrypt from 'bcrypt'
