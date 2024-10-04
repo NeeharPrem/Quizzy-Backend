@@ -27,6 +27,7 @@ mongoose.connect(monguri)
         console.error('error during connecting to mongoDB', err)
     })
 
+    
 app.listen(port,()=>{
     console.log('connected')
 })
